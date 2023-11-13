@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CTDL_Lab8</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/fit.txt</name>
+			<type>1</type>
+			<location>C:/Users/84783/Downloads/Lab 8_Map/data/fit.txt</location>
+		</link>
+		<link>
+			<name>src/hamlet.txt</name>
+			<type>1</type>
+			<location>C:/Users/84783/Downloads/Lab 8_Map/data/hamlet.txt</location>
+		</link>
+		<link>
+			<name>src/length.txt</name>
+			<type>1</type>
+			<location>C:/Users/84783/Downloads/Lab 8_Map/data/length.txt</location>
+		</link>
+		<link>
+			<name>src/short.txt</name>
+			<type>1</type>
+			<location>C:/Users/84783/Downloads/Lab 8_Map/data/short.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
